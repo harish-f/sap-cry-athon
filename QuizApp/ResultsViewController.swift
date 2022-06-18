@@ -17,6 +17,7 @@ class ResultsViewController: UIViewController {
     ]
     let images = ["chaseHappy","c", "chasemedium", "chaseSad"]
     
+    
     @IBOutlet weak var scoreLabel: UILabel!
     
     @IBOutlet weak var commentLabel: UILabel!
